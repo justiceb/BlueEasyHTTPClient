@@ -45,6 +45,7 @@
 		<Item Name="Open Handle.vi" Type="VI" URL="../SubVIs/Open Handle.vi"/>
 		<Item Name="POST Multipart.vi" Type="VI" URL="../SubVIs/POST Multipart.vi"/>
 		<Item Name="POST.vi" Type="VI" URL="../SubVIs/POST.vi"/>
+		<Item Name="PUT-FILE.vi" Type="VI" URL="../SubVIs/PUT-FILE.vi"/>
 		<Item Name="PUT.vi" Type="VI" URL="../SubVIs/PUT.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
@@ -59,4 +60,5 @@
 		<Item Name="HTTP Error.vi" Type="VI" URL="../SubVIs/HTTP Error.vi"/>
 		<Item Name="Interpret Header.vi" Type="VI" URL="../SubVIs/Interpret Header.vi"/>
 	</Item>
+	<Item Name="POST-FILE.vi" Type="VI" URL="../SubVIs/POST-FILE.vi"/>
 </Library>
